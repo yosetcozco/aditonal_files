@@ -1,0 +1,19 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "b4",
+			"selector": "text.html"
+		}
+	],
+	"color_scheme": "Packages/Monokai Dark/Monokai Dark.tmTheme",
+	"font_size": 15,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+	],
+	"open_files_in_new_window": false,
+	"save_on_focus_lost": true,
+	"tab_size": 4,
+	"theme": "Adaptive.sublime-theme"
+}

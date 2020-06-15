@@ -1,0 +1,11 @@
+AutoFileName
+Babel
+BracketHighlighter
+Color Highlight
+Color Highlighter
+Comment-Snippets
+Emmet
+Emmet Css Snippets
+FileIcons
+JsFormat-master
+Monokai Dark
